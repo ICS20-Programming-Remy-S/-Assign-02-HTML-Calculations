@@ -16,7 +16,7 @@ function enterClicked () {
   //prosses
   let surfaceArea = Math.sqrt(3) * Math.pow(aEdge,2);
   
-  let volume = Math.pow(aEdge,3) / 6 * Math.sqrt(2);
+  let volume = Math.pow(aEdge,3) / (6 * Math.sqrt(2));
 
   
   

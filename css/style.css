@@ -1,5 +1,5 @@
-/* Created by: Ms Raffin
-* Created on: Mar 2022
+/* Created by: Remy Skelton
+* Created on: Mar 2023
 * This CSS file defines the style for index.html
 * ICS2O-Unit2-01-HTML-JS-HelloWorld
 */
@@ -9,12 +9,13 @@ body {
 }
 
 h2 {
-	 background-color: rgb(49, 109, 53);
-	 color: hsl(264, 100%, 35%);
+	 background-color: rgb(147, 251, 154);
+	 color: hsl(264, 91%, 73%);
 	 padding: 40px;
 	 text-align: center;
 }
 
 h5 {
-	 background-color: #eeff00;
+	 background-color: #f4fb8e;
+  color:  #4f4dff;
 }
